@@ -1,15 +1,15 @@
 # 테마 바꾸기
 [theme]
-base = "dark"
+base = "white"
 
 # Primary accent color.
-primaryColor = "#7ed459"
+primaryColor = "#94b3db"
 
 # Background color of the app.
-backgroundColor = "#7259d4"
+backgroundColor = "#9894db"
 
 # Background color used for most interactive widgets.
-secondaryBackgroundColor = "#d459bc"
+secondaryBackgroundColor = "#bb94db"
 
 # Color used for almost all text.
 # textColor =
