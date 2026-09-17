@@ -1,6 +1,6 @@
 # 테마 바꾸기
 [theme]
-base = "white"
+base = "dark"
 
 # Primary accent color.
 primaryColor = "#94b3db"
